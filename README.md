@@ -7,7 +7,7 @@ Pepijn@pdik.nl , info@pdik.nl
 currently working on a few projects. 
 
 [![Mobox Badge](https://img.shields.io/badge/project-mijn.mobox.nl-F53D3D?style=for-the-badge&logo=laravel&logoColor=white)](https://mijn.mobox.nl)
-[![Bizzbuddy](https://img.shields.io/badge/bizzbuddy.nl-54b7e0?style=for-the-badge&logo=react&logoColor=white)](https://bizzbuddy.nl)
+[![Bizzbuddy](https://img.shields.io/badge/project-bizzbuddy.nl-54b7e0?style=for-the-badge&logo=react&logoColor=white)](https://bizzbuddy.nl)
 
 [![Linkedin Badge](https://img.shields.io/badge/-pepijndik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pepijndik/)](https://www.linkedin.com/in/pepijndik/)
 [![Gmail Badge](https://img.shields.io/badge/-info@pdik.nl-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:info@pdik.nl)](mailto:info@pdik.nl)
